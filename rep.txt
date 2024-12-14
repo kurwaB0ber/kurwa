@@ -1,1 +1,5 @@
 report of practical work
+steps of work:
+- instal GIT
+- create local repository
+- create fail report and add in the repository
